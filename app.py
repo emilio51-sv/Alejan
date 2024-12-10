@@ -1,3 +1,5 @@
+import os
+os.environ["CHROMA_DB_IMPL"] = "duckdb"
 import streamlit as st
 import os
 from crewai import Crew, Agent, Task, Process
