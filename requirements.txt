@@ -1,0 +1,1 @@
+streamlit==1.40.2pandas==2.2.3crewai==0.28.8langchain==0.1.13langchain-openai==0.1.7openai==1.57.1
